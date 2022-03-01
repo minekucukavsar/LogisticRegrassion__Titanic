@@ -291,38 +291,3 @@ cv_mean(cv_results)
 
 #At the end of the 'validation' we can say that these results are not better than the previous ones but they are more reliable and fine.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
